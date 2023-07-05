@@ -1,6 +1,6 @@
 // test No 5: all challenges
 import React, { useState } from "react";
-import BusinessCard from "./BusinessCard";
+import BusinessCard from "../BusinessCard";
 //import BusinessCardDetail from "./BusinessCardDetail";
 import BusinessCardDetail from "./BusinessCardDetailFull"; // "  import BusinessCardDetail from "./BusinessCardDetail
 

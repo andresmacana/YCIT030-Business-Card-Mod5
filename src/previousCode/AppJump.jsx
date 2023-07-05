@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import BusinessCardList from "./BusinessCardList";
-import bizcards from "./Data";
+import bizcards from "../Data";
 import "./style.css";
 
 function App() {

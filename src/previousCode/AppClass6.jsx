@@ -1,8 +1,8 @@
 import React from "react";
 //import BusinessCardList from "./BusinessCardList";
 //import BusinessCardList from "./BusinessCardListCh2";
-import BusinessCardList from "./BusinessCardListFull6"; // ./BusinessCardListFull" import BusinessCardList from "./BusinessCardList
-import businessCards from "./Data";
+import BusinessCardList from "../BusinessCardListFull6"; // ./BusinessCardListFull" import BusinessCardList from "./BusinessCardList
+import businessCards from "../Data";
 import "./style.css";
 
 function App() {
